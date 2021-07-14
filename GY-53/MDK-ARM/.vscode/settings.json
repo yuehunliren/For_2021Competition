@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "gy-53.h": "c",
+        "cstring": "c",
+        "iosfwd": "c",
+        "memory": "c",
+        "xmemory": "c",
+        "xutility": "c",
+        "main.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c"
+    }
+}
